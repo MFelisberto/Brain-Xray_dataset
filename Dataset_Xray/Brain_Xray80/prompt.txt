@@ -1,0 +1,1 @@
+ <lora:BrainXray_v1.2-000080:1>
